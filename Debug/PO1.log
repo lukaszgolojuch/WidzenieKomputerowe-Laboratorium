@@ -1,0 +1,6 @@
+﻿  PO1Dlg.cpp
+C:\Users\lgolojux\OneDrive - Intel Corporation\Desktop\Lab3 Widzenie\wk_export_3_1\wk_export_3_0\PO1Dlg.cpp(149,15): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\lgolojux\OneDrive - Intel Corporation\Desktop\Lab3 Widzenie\wk_export_3_1\wk_export_3_0\PO1Dlg.cpp(150,3): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\lgolojux\OneDrive - Intel Corporation\Desktop\Lab3 Widzenie\wk_export_3_1\wk_export_3_0\PO1Dlg.cpp(151,14): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\lgolojux\OneDrive - Intel Corporation\Desktop\Lab3 Widzenie\wk_export_3_1\wk_export_3_0\PO1Dlg.cpp(250,22): warning C4018: '<': signed/unsigned mismatch
+  PO1.vcxproj -> C:\Users\lgolojux\OneDrive - Intel Corporation\Desktop\Lab3 Widzenie\wk_export_3_1\wk_export_3_0\Debug\PO1.exe
